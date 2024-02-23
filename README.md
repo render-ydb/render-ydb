@@ -1,6 +1,5 @@
 ## 👀 About Me 
-- 👋 Hi, I'm render, A programmer who keeps climbing the technical mountain.
-- Currently working at Alibaba.
+👋 Hello everyone, I am render, an ordinary programmer with rich experience in Front-end Developmen. Currently working at Alibaba.
 
 ## 🛠️ Technology stack
 ![React](https://img.shields.io/badge/React-0a7ea4?logo=react&logoColor=fff&style=flat)
